@@ -1,0 +1,15 @@
+from bill iii
+to portland shift
+subject california schedules
+
+
+group
+
+when doing an import or an export from california there are a few important 
+guidelines to remember
+
+this must be firm firm import is required so that we provide the 
+spinning reserves to california we do this by buying firm energy for the 
+import if the import is non firm california will charge us their price 
+for spinning reserve margins this could easily be  per come this 
+summer

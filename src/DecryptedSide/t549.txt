@@ -1,0 +1,12 @@
+from kourtney nelson
+to portland shift
+subject scheduling wheels
+
+
+just a reminder that when entering a wheel the interchange id must be the 
+same for the import and export when the import is labeled as  
+and the export as  the iso views these as unique imports and 
+exports they will not be linked together for a wheel thus causing 
+ancillary services charges to occur
+
+thank you

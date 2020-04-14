@@ -1,0 +1,9 @@
+from 	john  
+
+to	richard
+subject	barton talking points
+
+
+
+here are barton talking points per our conversation last night  
+we will separately send a favorable washington post article on fercs meeting yesterday as it relates to rtos

@@ -1,0 +1,22 @@
+from lance
+to sevil
+subject power world drawing and contingency files
+
+
+sevil 
+
+i have attached a detailed map of the ercot system and line 
+and buses  the map is based on the  summer peak load flow case 
+enron paid about  for this map so we do not need to disclose it to 
+outside personnel
+
+i also have a detailed map of the eastern interconnect i believe it is down 
+to the level
+
+i have also attached contingency file  for ease of importing a 
+standard list of line contingencies that i obtained from the iso
+
+i have also attached an ercot injection group  which is valuable for 
+the years after  because of one constrol group 
+
+   
